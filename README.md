@@ -290,7 +290,7 @@ void LCD_init()
 ### Set up:
 ![](bef.PNG)
 ### Output:
-![](af.PNG)
+![](output.PNG)
 ### Layout:
 ![](lay.PNG)
 ## Result :
